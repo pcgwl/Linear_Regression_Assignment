@@ -12,7 +12,6 @@
     - [Dataset information](#dataset-information)
   - [Conclusions(Business Recomendation)](#conclusionsbusiness-recomendation)
   - [Result](#result)
-  - [Technologies Used](#technologies-used)
   - [Acknowledgements](#acknowledgements)
   - [Contact](#contact)
   
