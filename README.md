@@ -15,8 +15,7 @@
   - [Technologies Used](#technologies-used)
   - [Acknowledgements](#acknowledgements)
   - [Contact](#contact)
-  - [License](#license)
-
+  
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
